@@ -1,0 +1,29 @@
+┏『`乂 ᴀ ᴅ ᴍ ɪ ɴ - ᴏ ɴ ʟ ʏ 乂`』━⊱
+┣➤ *.admin*
+┣➤ *.mute*
+┣➤ *.setwelcome*
+┣➤ *.setleave*
+┣➤ *.nolinkall*
+┣➤ *.nolinkgc*
+┣➤ *.nolinkch*
+┣➤ *.nolinktiktok*
+┣➤ *.nolinkfb*
+┣➤ *.nolinktwitter*
+┣➤ *.nolinkig*
+┣➤ *.nolinktg*
+┣➤ *.nolinkdc*
+┣➤ *.nolinkytvid*
+┣➤ *.nolinkytch*
+┣➤ *.nolinkallsosmed*
+┣➤ *.notoxic*
+┣➤ *.setppgroup*
+┣➤ *.delppgroup*
+┣➤ *.setnamegroup*
+┣➤ *.setdescgrpup*
+┣➤ *.editinfo*
+┣➤ *.add*
+┣➤ *.kick*
+┣➤ *.createadmin*
+┣➤ *.cabutadmin*
+┣➤ *.listadmin*
+┗━━━━━━━━━━━━━━━━⊱

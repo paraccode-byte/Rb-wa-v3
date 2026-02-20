@@ -1,0 +1,933 @@
+{
+    "prophet_story": {
+        "adam": {
+            "nama": "Nabi Adam AS",
+            "tempat_lahir": "Surga",
+            "usia": "± 930 tahun",
+            "mukjizat": "Diajarkan nama-nama seluruh benda dan menjadi manusia pertama",
+            "kisah_lengkap": "Nabi Adam AS adalah manusia pertama yang diciptakan oleh Allah SWT dari tanah. Allah meniupkan ruh ke dalam dirinya dan memuliakannya dengan ilmu, hingga para malaikat diperintahkan untuk bersujud sebagai bentuk penghormatan. Iblis menolak perintah tersebut karena kesombongannya, sehingga ia dikutuk dan berjanji akan menyesatkan manusia.\n\nAllah menciptakan Hawa sebagai pendamping Adam dan menempatkan keduanya di surga. Mereka diperbolehkan menikmati seluruh kenikmatan surga kecuali mendekati satu pohon yang dilarang. Namun, Iblis menggoda Adam dan Hawa hingga mereka melanggar larangan tersebut.\n\nAkibat perbuatannya, Adam dan Hawa diturunkan ke bumi. Meski demikian, Adam segera bertaubat dengan penuh penyesalan dan memohon ampun kepada Allah. Taubatnya diterima dan ia diangkat sebagai nabi pertama.\n\nDi bumi, Nabi Adam AS menjalani kehidupan sebagai khalifah Allah. Ia mengajarkan keturunannya tentang tauhid, ibadah, dan akhlak yang benar. Adam juga menghadapi ujian berupa perselisihan di antara anak-anaknya.\n\nNabi Adam AS wafat setelah menjalani kehidupan panjang dan meninggalkan keturunan yang kelak melahirkan para nabi berikutnya. Kisahnya menjadi pelajaran tentang taubat, kesombongan, dan kasih sayang Allah kepada hamba-Nya."
+        },
+        "idris": {
+            "nama": "Nabi Idris AS",
+            "tempat_lahir": "Babilonia",
+            "usia": "± 365 tahun",
+            "mukjizat": "Pandai menulis, menjahit, dan diberi kedudukan tinggi",
+            "kisah_lengkap": "Nabi Idris AS merupakan keturunan Nabi Adam AS dan dikenal sebagai nabi yang sangat cerdas serta tekun beribadah. Ia hidup di tengah masyarakat yang mulai melalaikan ajaran tauhid dan tenggelam dalam kesibukan duniawi.\n\nAllah SWT menganugerahkan kepada Nabi Idris kemampuan membaca, menulis, serta ilmu pengetahuan yang luas. Ia adalah manusia pertama yang mengenal tulisan dengan pena dan mengajarkan keterampilan menjahit.\n\nNabi Idris AS berdakwah dengan penuh kesabaran, mengajak kaumnya kembali kepada keesaan Allah dan meninggalkan kebiasaan buruk. Ia dikenal sangat disiplin dan tegas dalam menegakkan kebenaran.\n\nKarena ketaatan dan kesalehannya, Allah mengangkat derajat Nabi Idris AS ke tempat yang tinggi sebagaimana disebutkan dalam Al-Qur’an. Pengangkatan ini merupakan kemuliaan khusus yang diberikan kepadanya.\n\nKisah Nabi Idris AS mengajarkan pentingnya ilmu, kerja keras, dan konsistensi dalam ibadah serta dakwah."
+        },
+        "nuh": {
+            "nama": "Nabi Nuh AS",
+            "tempat_lahir": "Mesopotamia",
+            "usia": "± 950 tahun",
+            "mukjizat": "Bahtera besar yang menyelamatkan kaum beriman",
+            "kisah_lengkap": "Nabi Nuh AS diutus kepada kaum yang telah menyimpang jauh dari ajaran tauhid. Mereka menyembah berhala dan menolak kebenaran meskipun telah diperingatkan dalam waktu yang sangat lama.\n\nSelama ratusan tahun Nabi Nuh AS berdakwah dengan penuh kesabaran, baik secara terang-terangan maupun sembunyi-sembunyi. Namun hanya sedikit orang yang beriman kepadanya.\n\nKetika kaumnya tetap membangkang, Allah memerintahkan Nabi Nuh AS untuk membuat sebuah bahtera besar. Pembuatan bahtera ini menjadi bahan ejekan bagi kaumnya.\n\nSaat azab datang, hujan deras turun dan mata air memancar dari bumi. Seluruh kaum yang ingkar ditenggelamkan, termasuk anak Nabi Nuh yang menolak beriman.\n\nBahtera tersebut menyelamatkan Nabi Nuh AS dan orang-orang beriman. Kisah ini menjadi peringatan keras tentang akibat kekafiran dan keutamaan ketaatan."
+        },
+        "hud": {
+            "nama": "Nabi Hud AS",
+            "tempat_lahir": "Hadramaut",
+            "usia": "± 150 tahun",
+            "mukjizat": "Keteguhan iman dan keselamatan dari azab angin topan",
+            "kisah_lengkap": "Nabi Hud AS diutus kepada kaum ‘Ad yang dikenal memiliki kekuatan fisik dan peradaban maju. Namun, mereka menyombongkan diri dan menyembah selain Allah.\n\nNabi Hud AS menyeru kaumnya agar bertakwa dan meninggalkan kesombongan. Ia menegaskan bahwa kekuatan dan kekayaan adalah karunia Allah, bukan hasil kehebatan manusia semata.\n\nKaum ‘Ad menolak dakwah tersebut dan bahkan mengancam Nabi Hud AS. Mereka menganggap azab yang diancamkan hanyalah kebohongan.\n\nAllah menurunkan azab berupa angin kencang yang sangat dingin selama beberapa hari. Angin tersebut menghancurkan kaum ‘Ad tanpa menyisakan kekuatan mereka.\n\nNabi Hud AS dan orang-orang beriman diselamatkan. Kisah ini menjadi pelajaran tentang bahaya kesombongan dan keingkaran."
+        },
+        "shalih": {
+            "nama": "Nabi Shalih AS",
+            "tempat_lahir": "Hijr",
+            "usia": "± 180 tahun",
+            "mukjizat": "Unta betina yang keluar dari batu",
+            "kisah_lengkap": "Nabi Shalih AS diutus kepada kaum Tsamud yang ahli memahat gunung menjadi rumah. Mereka hidup makmur namun menyekutukan Allah.\n\nSebagai bukti kebenaran, Allah menghadirkan mukjizat berupa unta betina yang keluar dari batu. Unta tersebut menjadi tanda kekuasaan Allah.\n\nNabi Shalih AS melarang kaumnya mengganggu unta tersebut. Namun, mereka justru menyembelihnya dengan penuh kesombongan.\n\nSetelah pelanggaran itu, Allah menurunkan azab berupa gempa dan suara keras yang menghancurkan kaum Tsamud.\n\nNabi Shalih AS dan pengikutnya diselamatkan. Kisah ini menegaskan akibat pelanggaran terhadap perintah Allah."
+        },
+        "ibrahim": {
+            "nama": "Nabi Ibrahim AS",
+            "tempat_lahir": "Ur Kasdim",
+            "usia": "± 175 tahun",
+            "mukjizat": "Api menjadi dingin dan keselamatan dari penyembahan berhala",
+            "kisah_lengkap": "Nabi Ibrahim AS dikenal sebagai bapak para nabi. Ia hidup di tengah masyarakat penyembah berhala, termasuk ayahnya sendiri.\n\nDengan kecerdasan dan hikmah, Nabi Ibrahim AS membantah penyembahan berhala dan menghancurkan patung-patung kaumnya.\n\nIa kemudian dilemparkan ke dalam api oleh Raja Namrud, namun Allah menjadikan api tersebut dingin dan tidak membahayakannya.\n\nNabi Ibrahim AS diuji dengan perintah menyembelih putranya Ismail AS, dan ia lulus ujian tersebut dengan ketaatan penuh.\n\nIa membangun Ka’bah bersama Ismail AS dan menjadi teladan tauhid bagi seluruh umat manusia."
+        },
+        "luth": {
+            "nama": "Nabi Luth AS",
+            "tempat_lahir": "Ur Kasdim",
+            "usia": "± 80 tahun",
+            "mukjizat": "Keselamatan dari azab kaum Sodom",
+            "kisah_lengkap": "Nabi Luth AS diutus kepada kaum yang melakukan perbuatan keji dan menyimpang dari fitrah manusia.\n\nIa menyeru mereka agar kembali kepada jalan yang lurus dan meninggalkan kemaksiatan.\n\nKaumnya menolak dakwah tersebut dan bahkan mengancam Nabi Luth AS.\n\nAllah menurunkan azab berupa hujan batu dan membalikkan negeri mereka.\n\nNabi Luth AS dan pengikutnya diselamatkan kecuali istrinya yang ingkar."
+        },
+        "ismail": {
+            "nama": "Nabi Ismail AS",
+            "tempat_lahir": "Mekkah",
+            "usia": "± 137 tahun",
+            "mukjizat": "Ketaatan luar biasa kepada Allah",
+            "kisah_lengkap": "Nabi Ismail AS adalah putra Nabi Ibrahim AS yang dikenal sangat taat dan sabar.\n\nIa dibesarkan di Mekkah dan menjadi pendamping ayahnya dalam membangun Ka’bah.\n\nSaat diperintahkan untuk disembelih, Nabi Ismail AS menerimanya dengan penuh keikhlasan.\n\nAllah menggantikan Ismail AS dengan seekor domba sebagai bentuk rahmat-Nya.\n\nKisahnya menjadi teladan ketaatan dan pengorbanan."
+        },
+        "ishak": {
+            "nama": "Nabi Ishak AS",
+            "tempat_lahir": "Kan'an",
+            "usia": "± 180 tahun",
+            "mukjizat": "Kelahiran di usia lanjut orang tuanya",
+            "kisah_lengkap": "Nabi Ishak AS adalah putra Nabi Ibrahim AS yang lahir sebagai mukjizat.\n\nIa meneruskan dakwah tauhid ayahnya di wilayah Kan'an.\n\nNabi Ishak AS dikenal sebagai pribadi yang lembut dan penuh kesabaran.\n\nIa membimbing kaumnya agar tetap berpegang pada ajaran Allah.\n\nDari keturunannya lahir para nabi besar."
+        },
+        "yaqub": {
+            "nama": "Nabi Yaqub AS",
+            "tempat_lahir": "Kan'an",
+            "usia": "± 147 tahun",
+            "mukjizat": "Kesabaran luar biasa",
+            "kisah_lengkap": "Nabi Yaqub AS adalah putra Nabi Ishak AS dan dikenal dengan kesabarannya.\n\nIa memiliki dua belas putra yang kelak menjadi asal Bani Israil.\n\nUjian terbesarnya adalah kehilangan putranya, Nabi Yusuf AS.\n\nMeski bersedih, Nabi Yaqub AS tetap berserah diri kepada Allah.\n\nKesabarannya dibalas dengan kebahagiaan."
+        },
+        "yusuf": {
+            "nama": "Nabi Yusuf AS",
+            "tempat_lahir": "Kan'an",
+            "usia": "± 110 tahun",
+            "mukjizat": "Kemampuan menafsirkan mimpi",
+            "kisah_lengkap": "Nabi Yusuf AS mengalami banyak ujian sejak kecil.\n\nIa dibuang ke sumur oleh saudara-saudaranya karena iri hati.\n\nYusuf AS dijual sebagai budak dan dipenjara tanpa kesalahan.\n\nAllah memberinya kemampuan menafsirkan mimpi hingga menjadi penguasa Mesir.\n\nKisahnya penuh pelajaran tentang kesabaran dan keikhlasan."
+        },
+        "ayyub": {
+            "nama": "Nabi Ayyub AS",
+            "tempat_lahir": "Hauran",
+            "usia": "± 93 tahun",
+            "mukjizat": "Kesabaran dalam penyakit",
+            "kisah_lengkap": "Nabi Ayyub adalah seorang nabi keturunan Nabi Ibrahim AS yang sangat kaya, tampan, memiliki istri sholehah (Rahmah), dan banyak anak. Ia dikenal dermawan, kedermawanannya inilah yang membuat setan jengkel karena imannya tidak goyah oleh kekayaan. \n\nAllah menguji Ayyub dengan menghilangkan seluruh hartanya dan mewafatkan seluruh anaknya dalam waktu singkat.\n\nKemudian, Nabi Ayyub diuji dengan penyakit kulit yang parah di seluruh tubuhnya, kecuali hati dan lisannya.\n\nCobaan ini berlangsung selama kurang lebih 18-20 tahun, membuatnya dijauhi banyak orang kecuali dua saudaranya dan istrinya yang setia merawatnya.\n\n Istrinya Rahmah juga sembuh dari penyakit (menurut beberapa riwayat), dan Allah mengembalikan harta serta keluarganya menjadi dua kali lipat lebih banyak dari sebelumnya, bahkan anak-anaknya hidup kembali."
+        },
+        "syuaib": {
+            "nama": "Nabi Syuaib AS",
+            "tempat_lahir": "Madyan",
+            "usia": "± 160 tahun",
+            "mukjizat": "Keberanian menegakkan keadilan",
+            "kisah_lengkap": "Nabi Syuaib A.S. diutus Allah kepada kaum Madyan yang gemar berbuat maksiat, menyembah pohon/berhala, dan curang dalam timbangan dagang. Dikenal sebagai Khatibul Anbiya (juru bicara para nabi) karena fasih berdakwah, ia mengajak kaumnya menyembah Allah dan jujur. Karena menolak dan menantang azab, mereka dibinasakan dengan badai panas, gempa, dan hujan api.\n\nNabi Syuaib berdakwah kepada penduduk Madyan yang curang dan sering merampas harta, menegaskan pentingnya kejujuran dalam berdagang.\n\nKaum Madyan mengejek, mengancam akan mengusir, dan menuduh Nabi Syuaib sebagai pendusta.\n\nKaum Madyan ditimpa azab berupa hawa panas yang sangat terik, diikuti suara mengguntur dan api yang membakar mereka hingga binasa.\n\nNabi Syuaib dan pengikutnya yang beriman diselamatkan Allah dari azab tersebut."
+        },
+        "musa": {
+            "nama": "Nabi Musa AS",
+            "tempat_lahir": "Mesir",
+            "usia": "± 120 tahun",
+            "mukjizat": "Tongkat berubah menjadi ular",
+            "kisah_lengkap": "Nabi Musa AS adalah nabi Ulul Azmi yang diutus Allah untuk membebaskan Bani Israil dari perbudakan Fir'aun di Mesir. Lahir saat pembunuhan bayi laki-laki, ia dihanyutkan ke Sungai Nil, diasuh di istana Fir'aun, lalu memimpin kaumnya keluar dari Mesir dengan mukjizat tongkat membelah Laut Merah, serta menerima kitab Taurat di Gunung Sinai.\n\nMusa lahir saat Fir'aun memerintahkan membunuh semua bayi laki-laki Bani Israil. Ibunya menghanyutkannya di peti ke Sungai Nil, lalu ditemukan dan diasuh oleh istri Fir'aun, Asiyah.\n\nMusa sempat melarikan diri ke Madyan setelah tak sengaja membunuh orang Mesir, menikah dengan putri Nabi Syuaib, dan diangkat menjadi nabi di Bukit Tursina.\n\nNabi Musa diperintahkan kembali ke Mesir untuk menghadapi Fir'aun yang zalim, didampingi saudaranya, Nabi Harun AS. Musa membawa mukjizat tongkat menjadi ular dan tangan bercahaya.\n\nSetelah Fir'aun menolak beriman, Nabi Musa membawa Bani Israil keluar dari Mesir. Fir'aun mengejar mereka, namun Nabi Musa membelah Laut Merah dengan tongkatnya, menyelamatkan pengikutnya, dan menenggelamkan Fir'aun."
+        },
+        "harun": {
+            "nama": "Nabi Harun AS",
+            "tempat_lahir": "Mesir",
+            "usia": "± 123 tahun",
+            "mukjizat": "Pendamping dakwah Nabi Musa AS",
+            "kisah_lengkap": "Nabi Harun adalah saudara kandung Nabi Musa yang diutus Allah SWT untuk membantu dakwahnya kepada Firaun dan Bani Israil, dikenal sebagai juru bicara yang fasih karena Nabi Musa merasa lidahnya kurang lancar. Ia setia mendampingi Nabi Musa, berjuang melawan kesesatan kaumnya (termasuk membuat patung anak sapi), dan meninggal di Gunung Hor setelah 40 tahun perjalanan hijrah dari Mesir, tetap berpegang pada ajaran tauhid hingga akhir hayatnya.\n\nHarun menjadi juru bicara utama Nabi Musa kepada Firaun yang kejam karena Nabi Musa merasa memiliki kekurangan dalam berbicara.\n\n Ia menemani Nabi Musa dalam menghadapi Firaun, menyampaikan wahyu Taurat, dan memimpin Bani Israil saat Musa naik ke Bukit Thursina.\n\nHarun gigih mencegah kaumnya menyembah patung anak sapi emas yang dibuat oleh Samiri, meskipun ia kesulitan karena jumlah kaum yang banyak.\n\nNabi Harun wafat di Gunung Hor (Bukit Haur) dalam usia 123 tahun, dalam tahun ke-40 perjalanan kaum Bani Israil menuju tanah Kanaan. "
+        },
+        "daud": {
+            "nama": "Nabi Daud AS",
+            "tempat_lahir": "Palestina",
+            "usia": "± 100 tahun",
+            "mukjizat": "Besi menjadi lunak",
+            "kisah_lengkap": "Nabi Daud AS adalah nabi dan raja Bani Israil yang dikenal pemberani, adil, dan taat beribadah. Beliau terkenal karena mengalahkan raksasa Jalut dengan ketapel saat muda, menerima kitab Zabur, serta dikaruniai mukjizat berupa suara merdu, kemampuan melunakkan besi, dan menundukkan gunung-gunung. Daud memimpin selama 40 tahun dengan penuh kebijaksanaan.\n\nNabi Daud berasal dari Bani Israil. Saat muda, ia bergabung dengan tentara Raja Thalut dan berhasil mengalahkan raja zalim bernama Jalut hanya dengan ketapel.\n\nSetelah wafatnya Thalut, Nabi Daud diangkat menjadi raja Bani Israil dan sekaligus diangkat sebagai Rasul Allah, penerima kitab Zabur.\n\nNabi Daud dikaruniai suara yang sangat merdu, bahkan gunung dan burung bertasbih bersamanya. Beliau juga bisa melunakkan besi layaknya lilin untuk membuat baju besi yang ringan dan fleksibel\n\nMeski menjadi raja besar dan kaya, beliau sangat bersyukur dan rajin beribadah. Nabi Daud terkenal dengan puasa Daud (sehari puasa, sehari tidak) dan salat malamnya."
+        },
+        "sulaiman": {
+            "nama": "Nabi Sulaiman AS",
+            "tempat_lahir": "Yerusalem",
+            "usia": "± 52 tahun",
+            "mukjizat": "Menguasai angin dan berbicara dengan hewan",
+            "kisah_lengkap": "Kisah Nabi Sulaiman AS singkatnya adalah putra Nabi Daud AS yang diangkat menjadi raja dengan kerajaan luas, dianugerahi mukjizat bisa berbicara dengan hewan, menundukkan jin, angin, dan kekuatan supranatural lainnya, serta dikenal sangat bijaksana dalam memutuskan perkara, termasuk kisah Ratu Balqis yang akhirnya masuk Islam, hingga wafatnya yang baru diketahui setelah rayap memakan tongkatnya saat ia sedang beribadah, menunjukkan keimanannya hingga akhir hayat.\n\nSulaiman mewarisi kerajaan Nabi Daud AS di usia muda, menjadi raja Bani Israil yang adil dan bijaksana.\n\nIa terkenal dengan keputusannya yang adil, seperti saat menyelesaikan sengketa kebun dan kambing.\n\nMengirim surat ke Ratu Balqis dari Saba' untuk masuk Islam. Ratu Balqis datang, terpukau oleh istananya yang megah (lantai kaca dengan ikan di bawahnya), dan akhirnya beriman.\n\nSaat sedang beribadah sambil bersandar pada tongkat, rayap memakan tongkatnya hingga habis. Baru setelah tongkatnya roboh, semua makhluk (termasuk jin) tahu bahwa ia telah wafat, menunjukkan bahwa kematiannya adalah rahasia Allah."
+        },
+        "yunus": {
+            "nama": "Nabi Yunus AS",
+            "tempat_lahir": "Ninawa",
+            "usia": "± 70 tahun",
+            "mukjizat": "Diselamatkan dari perut ikan",
+            "kisah_lengkap": "Nabi Yunus AS diutus kepada penduduk Ninawa yang menyembah berhala. Karena dakwahnya ditolak dan ia merasa putus asa, Nabi Yunus meninggalkan kaumnya sebelum diperintah Allah. Di tengah pelayaran, kapal diterpa badai dan Nabi Yunus terpilih melalui undian untuk dibuang ke laut. Ia ditelan ikan paus besar, bertobat di dalam perut ikan dengan doa La ilaha illa anta, Subhanaka, inni kuntu minaz-zalimin, dan diselamatkan Allah kembali ke daratan untuk melanjutkan dakwah.\n\nNabi Yunus AS diutus ke Ninawa (Irak) untuk mengajak penduduk menyembah Allah. Penduduk menolak, membuat Yunus marah dan pergi meninggalkan mereka tanpa izin Allah.\n\nSaat menaiki kapal yang kelebihan muatan, terjadi badai. Undian dilakukan untuk mengurangi beban, dan nama Nabi Yunus keluar hingga tiga kali, sehingga ia menceburkan diri ke laut.\n\nAllah memerintahkan ikan paus besar menelan Nabi Yunus tanpa merusak tubuhnya. Di dalam perut ikan yang gelap, ia menyadari kesalahannya, berdzikir, dan memohon ampun.\n\n Doa Nabi Yunus dikabulkan, ikan paus memuntahkannya ke daratan dalam keadaan lemah. Setelah pulih, ia kembali ke Ninawa dan mendapati kaumnya telah bertobat."
+        },
+        "zakaria": {
+            "nama": "Nabi Zakaria AS",
+            "tempat_lahir": "Palestina",
+            "usia": "± 120 tahun",
+            "mukjizat": "Dikaruniai anak di usia lanjut",
+            "kisah_lengkap": "Kisah singkat Nabi Zakaria AS adalah tentang seorang nabi saleh yang tabah memohon keturunan dari Allah SWT di usia senja, mengasuh Maryam (ibu Isa), dan akhirnya dikaruniai putra saleh bernama Yahya, serta wafatnya yang penuh hikmah, mengajarkan kesabaran dan keikhlasan. Beliau adalah nabi dari kaum Bani Israil, kerabat Imron (ayah Maryam), dan diutus untuk berdakwah melawan kemaksiatan di kaumnya.\n\nNabi Zakaria adalah seorang tukang kayu yang taat beribadah, diutus untuk membimbing kaum Bani Israil yang banyak berbuat dosa, menyeru mereka untuk bertobat dan menyembah Allah.\n\nSetelah Imron wafat, Nabi Zakaria terpilih untuk mengasuh Maryam, putri Imron, di Baitul Maqdis. Beliau terheran-heran melihat Maryam dikaruniai rezeki dan buah-buahan tanpa sebab, yang menunjukkan kebesaran Allah.\n\nKarena usianya sudah tua dan istrinya mandul, Nabi Zakaria memohon kepada Allah agar dikaruniai anak, seorang penerus ilmunya. Doanya dikabulkan, dan ia diberi seorang putra bernama Yahya (Nabi Yahya).\n\nSaat dikejar kaum zalim, Nabi Zakaria bersembunyi di dalam pohon yang terbuka lalu menutupinya. Menurut riwayat, beliau wafat dengan cara yang berbeda, ada yang menyebut dibunuh saat digergaji di dalam pohon, ada pula yang mengatakan wafat wajar, namun kisahnya menginspirasi kesabaran."
+        },
+        "yahya": {
+            "nama": "Nabi Yahya AS",
+            "tempat_lahir": "Palestina",
+            "usia": "± 32 tahun",
+            "mukjizat": "Kesucian sejak kecil",
+            "kisah_lengkap": "Kisah Nabi Yahya singkat adalah tentang putra Nabi Zakaria yang istimewa, dilindungi Allah dari maksiat sejak kecil, sangat penyayang pada semua makhluk, dan teguh dalam dakwah, bahkan berani menegur Raja Herodes yang hendak menikahi keponakannya (Putri Herodia), yang akhirnya menyebabkan beliau syahid dipenggal atas perintah Herodes, menjadikannya teladan ketaatan dan keberanian dalam menegakkan perintah Allah.\n\nSejak kecil terpelihara dari dosa (maksum) dan syirik, rajin ibadah, serta tak suka bermain seperti anak-anak lain.\n\nMemiliki kasih sayang mendalam pada semua makhluk, sering memberi makan hewan liar, dan menguasai Taurat sejak dini.\n\nKarena keteguhannya, Raja Herodes murka dan memerintahkan pengawal untuk menangkap Nabi Yahya.\n\nAtas permintaan Herodia, Nabi Yahya dihukum penggal dan syahid di usia muda (sekitar 32 tahun)."
+        },
+        "isa": {
+            "nama": "Nabi Isa AS",
+            "tempat_lahir": "Bethlehem",
+            "usia": "Diangkat ke langit",
+            "mukjizat": "Berbicara sejak bayi",
+            "kisah_lengkap": "Nabi Isa AS adalah rasul Allah (Ulul Azmi) yang lahir ajaib tanpa ayah dari perawan suci Maryam. Diberi mukjizat berbicara saat bayi, menyembuhkan penyakit, hingga menghidupkan orang mati, ia diutus kepada Bani Israil. Nabi Isa diselamatkan dari penyaliban oleh Allah dengan diangkat ke langit, sementara Yudas Iskariot yang diserupakan.\n\nLahir dari Maryam tanpa perantara ayah, sebagai tanda kekuasaan Allah. Kelahirannya menimbulkan fitnah, namun Isa kecil berbicara membela ibunya.\n\nDi antaranya berbicara saat bayi, menyembuhkan kusta/kebutaan, menghidupkan burung dari tanah liat, dan menghidupkan orang mati.\n\nDiutus kepada Bani Israil untuk mengajarkan tauhid dan membawa kitab Injil.\n\nNabi Isa tidak disalib, melainkan diangkat oleh Allah ke langit saat kaum Yahudi berusaha membunuhnya."
+        },
+        "muhammad": {
+            "nama": "Nabi Muhammad SAW",
+            "tempat_lahir": "Mekkah",
+            "usia": "63 tahun",
+            "mukjizat": "Al-Qur’an",
+            "kisah_lengkap": "Nabi Muhammad SAW lahir di Makkah pada 12 Rabiul Awal Tahun Gajah (571 M) dalam keadaan yatim. Diasuh oleh Halimah As-Sa'diyah, kakeknya Abdul Muthalib, lalu pamannya Abu Thalib, beliau tumbuh menjadi pribadi jujur bergelar Al-Amin. Menikah dengan Khadijah di usia 25 tahun, beliau menerima wahyu pertama di Gua Hira usia 40 tahun. Setelah berdakwah di Makkah, beliau hijrah ke Madinah, mendirikan masyarakat Islam, dan wafat pada usia 63 tahun.\n\nLahir dari ibu Aminah dan ayah Abdullah (wafat saat Nabi dalam kandungan). Sejak kecil sudah yatim piatu (ibu wafat usia 6 tahun).\n\nTerkenal jujur, berdagang ke Syam, dan menikah dengan Siti Khadijah pada usia 25 tahun.\n\nMenerima wahyu pertama (Surah Al-Alaq) di Gua Hira melalui Malaikat Jibril.\n\nMelakukan dakwah secara sembunyi-sembunyi selama 3 tahun, kemudian terang-terangan. Mengalami penindasan dari kaum Quraisy."
+        }
+    },
+    "asmaul_husna": {
+        "1": {
+            "nama": "ar-rahman",
+            "arab": "الرَّحْمٰنُ",
+            "arti": "Yang Maha Pengasih",
+            "deskripsi": "Allah Maha Pengasih kepada seluruh makhluk tanpa membedakan keimanan."
+        },
+        "2": {
+            "nama": "ar-rahim",
+            "arab": "الرَّحِيْمُ",
+            "arti": "Yang Maha Penyayang",
+            "deskripsi": "Kasih sayang Allah yang khusus bagi hamba-hamba-Nya yang beriman."
+        },
+        "3": {
+            "nama": "al-malik",
+            "arab": "الْمَلِكُ",
+            "arti": "Yang Maha Merajai",
+            "deskripsi": "Allah adalah Raja mutlak atas seluruh alam semesta."
+        },
+        "4": {
+            "nama": "al-quddus",
+            "arab": "الْقُدُّوسُ",
+            "arti": "Yang Maha Suci",
+            "deskripsi": "Allah Maha Suci dari segala kekurangan dan cela."
+        },
+        "5": {
+            "nama": "as-salam",
+            "arab": "السَّلاَمُ",
+            "arti": "Yang Maha Memberi Kesejahteraan",
+            "deskripsi": "Allah adalah sumber keselamatan dan kedamaian."
+        },
+        "6": {
+            "nama": "al-mumin",
+            "arab": "الْمُؤْمِنُ",
+            "arti": "Yang Maha Memberi Keamanan",
+            "deskripsi": "Allah memberi rasa aman dan membenarkan hamba-Nya."
+        },
+        "7": {
+            "nama": "al-muhaimin",
+            "arab": "الْمُهَيْمِنُ",
+            "arti": "Yang Maha Memelihara",
+            "deskripsi": "Allah mengawasi dan menjaga seluruh ciptaan-Nya."
+        },
+        "8": {
+            "nama": "al-aziz",
+            "arab": "الْعَزِيزُ",
+            "arti": "Yang Maha Perkasa",
+            "deskripsi": "Allah Maha Perkasa dan tidak dapat dikalahkan."
+        },
+        "9": {
+            "nama": "al-jabbar",
+            "arab": "الْجَبَّارُ",
+            "arti": "Yang Maha Memaksa",
+            "deskripsi": "Allah berkuasa penuh atas seluruh makhluk."
+        },
+        "10": {
+            "nama": "al-mutakabbir",
+            "arab": "الْمُتَكَبِّرُ",
+            "arti": "Yang Maha Megah",
+            "deskripsi": "Allah Maha Agung dalam kebesaran-Nya."
+        },
+        "11": {
+            "nama": "al-khaliq",
+            "arab": "الْخَالِقُ",
+            "arti": "Yang Maha Pencipta",
+            "deskripsi": "Allah menciptakan segala sesuatu dari ketiadaan."
+        },
+        "12": {
+            "nama": "al-bari",
+            "arab": "الْبَارِئُ",
+            "arti": "Yang Maha Mengadakan",
+            "deskripsi": "Allah menciptakan makhluk dengan bentuk sempurna."
+        },
+        "13": {
+            "nama": "al-musawwir",
+            "arab": "الْمُصَوِّرُ",
+            "arti": "Yang Maha Membentuk",
+            "deskripsi": "Allah menentukan rupa dan bentuk setiap makhluk."
+        },
+        "14": {
+            "nama": "al-ghaffar",
+            "arab": "الْغَفَّارُ",
+            "arti": "Yang Maha Pengampun",
+            "deskripsi": "Allah mengampuni dosa hamba-Nya yang bertaubat."
+        },
+        "15": {
+            "nama": "al-qahhar",
+            "arab": "الْقَهَّارُ",
+            "arti": "Yang Maha Menundukkan",
+            "deskripsi": "Allah menundukkan seluruh makhluk dengan kekuasaan-Nya."
+        },
+        "16": {
+            "nama": "al-wahhab",
+            "arab": "الْوَهَّابُ",
+            "arti": "Yang Maha Pemberi",
+            "deskripsi": "Allah memberi karunia tanpa mengharap balasan."
+        },
+        "17": {
+            "nama": "ar-razzaq",
+            "arab": "الرَّزَّاقُ",
+            "arti": "Yang Maha Pemberi Rezeki",
+            "deskripsi": "Allah menjamin rezeki seluruh makhluk."
+        },
+        "18": {
+            "nama": "al-fattah",
+            "arab": "الْفَتَّاحُ",
+            "arti": "Yang Maha Pembuka",
+            "deskripsi": "Allah membuka jalan kebaikan dan kemenangan."
+        },
+        "19": {
+            "nama": "al-alim",
+            "arab": "الْعَلِيْمُ",
+            "arti": "Yang Maha Mengetahui",
+            "deskripsi": "Allah mengetahui segala sesuatu secara sempurna."
+        },
+        "20": {
+            "nama": "al-qabid",
+            "arab": "الْقَابِضُ",
+            "arti": "Yang Maha Menyempitkan",
+            "deskripsi": "Allah menyempitkan rezeki sesuai kehendak-Nya."
+        },
+        "21": {
+            "nama": "al-basit",
+            "arab": "الْبَاسِطُ",
+            "arti": "Yang Maha Melapangkan",
+            "deskripsi": "Allah melapangkan rezeki bagi hamba-Nya."
+        },
+        "22": {
+            "nama": "al-khafid",
+            "arab": "الْخَافِضُ",
+            "arti": "Yang Maha Merendahkan",
+            "deskripsi": "Allah merendahkan derajat orang zalim."
+        },
+        "23": {
+            "nama": "ar-rafi",
+            "arab": "الرَّافِعُ",
+            "arti": "Yang Maha Meninggikan",
+            "deskripsi": "Allah meninggikan derajat orang beriman."
+        },
+        "24": {
+            "nama": "al-muizz",
+            "arab": "الْمُعِزُّ",
+            "arti": "Yang Maha Memuliakan",
+            "deskripsi": "Allah memuliakan siapa yang Dia kehendaki."
+        },
+        "25": {
+            "nama": "al-mudzill",
+            "arab": "الْمُذِلُّ",
+            "arti": "Yang Maha Menghinakan",
+            "deskripsi": "Allah menghinakan orang yang durhaka."
+        },
+        "26": {
+            "nama": "as-sami",
+            "arab": "السَّمِيعُ",
+            "arti": "Yang Maha Mendengar",
+            "deskripsi": "Allah mendengar segala sesuatu tanpa batas."
+        },
+        "27": {
+            "nama": "al-basir",
+            "arab": "الْبَصِيرُ",
+            "arti": "Yang Maha Melihat",
+            "deskripsi": "Allah melihat segala sesuatu secara nyata."
+        },
+        "28": {
+            "nama": "al-hakam",
+            "arab": "الْحَكَمُ",
+            "arti": "Yang Maha Menetapkan",
+            "deskripsi": "Allah adalah hakim yang Maha Adil."
+        },
+        "29": {
+            "nama": "al-adl",
+            "arab": "الْعَدْلُ",
+            "arti": "Yang Maha Adil",
+            "deskripsi": "Allah tidak menzalimi siapa pun."
+        },
+        "30": {
+            "nama": "al-latif",
+            "arab": "اللَّطِيفُ",
+            "arti": "Yang Maha Lembut",
+            "deskripsi": "Allah Maha Lembut dalam ketetapan-Nya."
+        },
+        "31": {
+            "nama": "al-khabir",
+            "arab": "الْخَبِيرُ",
+            "arti": "Yang Maha Mengetahui Rahasia",
+            "deskripsi": "Allah mengetahui segala yang tersembunyi."
+        },
+        "32": {
+            "nama": "al-halim",
+            "arab": "الْحَلِيمُ",
+            "arti": "Yang Maha Penyantun",
+            "deskripsi": "Allah tidak tergesa-gesa dalam menghukum."
+        },
+        "33": {
+            "nama": "al-azim",
+            "arab": "الْعَظِيمُ",
+            "arti": "Yang Maha Agung",
+            "deskripsi": "Allah Maha Agung dalam keagungan-Nya."
+        },
+        "34": {
+            "nama": "al-ghafur",
+            "arab": "الْغَفُورُ",
+            "arti": "Yang Maha Pengampun",
+            "deskripsi": "Allah mengampuni dosa secara luas."
+        },
+        "35": {
+            "nama": "ash-shakur",
+            "arab": "الشَّكُورُ",
+            "arti": "Yang Maha Mensyukuri",
+            "deskripsi": "Allah membalas amal kecil dengan pahala besar."
+        },
+        "36": {
+            "nama": "al-aliyy",
+            "arab": "الْعَلِيُّ",
+            "arti": "Yang Maha Tinggi",
+            "deskripsi": "Allah Maha Tinggi dari segala makhluk."
+        },
+        "37": {
+            "nama": "al-kabir",
+            "arab": "الْكَبِيرُ",
+            "arti": "Yang Maha Besar",
+            "deskripsi": "Allah Maha Besar dalam kekuasaan-Nya."
+        },
+        "38": {
+            "nama": "al-hafizh",
+            "arab": "الْحَفِيظُ",
+            "arti": "Yang Maha Menjaga",
+            "deskripsi": "Allah menjaga seluruh makhluk-Nya."
+        },
+        "39": {
+            "nama": "al-muqit",
+            "arab": "الْمُقِيتُ",
+            "arti": "Yang Maha Pemberi Kecukupan",
+            "deskripsi": "Allah memberi kecukupan bagi makhluk."
+        },
+        "40": {
+            "nama": "al-hasib",
+            "arab": "الْحسِيبُ",
+            "arti": "Yang Maha Menghisab",
+            "deskripsi": "Allah Maha Cukup dan Maha Menghitung."
+        },
+        "41": {
+            "nama": "al-jalil",
+            "arab": "الْجَلِيلُ",
+            "arti": "Yang Maha Mulia",
+            "deskripsi": "Allah memiliki kemuliaan yang sempurna."
+        },
+        "42": {
+            "nama": "al-karim",
+            "arab": "الْكَرِيمُ",
+            "arti": "Yang Maha Pemurah",
+            "deskripsi": "Allah Maha Mulia dan Maha Pemberi."
+        },
+        "43": {
+            "nama": "ar-raqib",
+            "arab": "الرَّقِيبُ",
+            "arti": "Yang Maha Mengawasi",
+            "deskripsi": "Allah selalu mengawasi setiap perbuatan."
+        },
+        "44": {
+            "nama": "al-mujib",
+            "arab": "الْمُجِيبُ",
+            "arti": "Yang Maha Mengabulkan",
+            "deskripsi": "Allah mengabulkan doa hamba-Nya."
+        },
+        "45": {
+            "nama": "al-wasi",
+            "arab": "الْوَاسِعُ",
+            "arti": "Yang Maha Luas",
+            "deskripsi": "Rahmat dan ilmu Allah sangat luas."
+        },
+        "46": {
+            "nama": "al-hakim",
+            "arab": "الْحَكِيمُ",
+            "arti": "Yang Maha Bijaksana",
+            "deskripsi": "Allah menetapkan segala sesuatu dengan hikmah."
+        },
+        "47": {
+            "nama": "al-wadud",
+            "arab": "الْوَدُودُ",
+            "arti": "Yang Maha Mengasihi",
+            "deskripsi": "Allah mencintai hamba-Nya yang taat."
+        },
+        "48": {
+            "nama": "al-majid",
+            "arab": "الْمَجِيدُ",
+            "arti": "Yang Maha Mulia",
+            "deskripsi": "Allah Maha Mulia dan Maha Agung."
+        },
+        "49": {
+            "nama": "al-baith",
+            "arab": "الْبَاعِثُ",
+            "arti": "Yang Maha Membangkitkan",
+            "deskripsi": "Allah membangkitkan makhluk pada hari kiamat."
+        },
+        "50": {
+            "nama": "ash-shahid",
+            "arab": "الشَّهِيدُ",
+            "arti": "Yang Maha Menyaksikan",
+            "deskripsi": "Allah menyaksikan segala sesuatu."
+        },
+        "51": {
+            "nama": "al-haqq",
+            "arab": "الْحَقُّ",
+            "arti": "Yang Maha Benar",
+            "deskripsi": "Allah adalah kebenaran yang mutlak."
+        },
+        "52": {
+            "nama": "al-wakil",
+            "arab": "الْوَكِيلُ",
+            "arti": "Yang Maha Mengurus",
+            "deskripsi": "Allah mengatur seluruh urusan makhluk."
+        },
+        "53": {
+            "nama": "al-qawiyy",
+            "arab": "الْقَوِيُّ",
+            "arti": "Yang Maha Kuat",
+            "deskripsi": "Allah memiliki kekuatan yang sempurna."
+        },
+        "54": {
+            "nama": "al-matin",
+            "arab": "الْمَتِينُ",
+            "arti": "Yang Maha Kokoh",
+            "deskripsi": "Kekuasaan Allah tidak tergoyahkan."
+        },
+        "55": {
+            "nama": "al-waliyy",
+            "arab": "الْوَلِيُّ",
+            "arti": "Yang Maha Melindungi",
+            "deskripsi": "Allah melindungi hamba-Nya yang beriman."
+        },
+        "56": {
+            "nama": "al-hamid",
+            "arab": "الْحَمِيدُ",
+            "arti": "Yang Maha Terpuji",
+            "deskripsi": "Allah Maha Terpuji atas segala perbuatan-Nya."
+        },
+        "57": {
+            "nama": "al-muhsi",
+            "arab": "الْمُحْصِي",
+            "arti": "Yang Maha Menghitung",
+            "deskripsi": "Allah menghitung segala amal perbuatan."
+        },
+        "58": {
+            "nama": "al-mubdi",
+            "arab": "الْمُبْدِئُ",
+            "arti": "Yang Maha Memulai",
+            "deskripsi": "Allah memulai penciptaan makhluk."
+        },
+        "59": {
+            "nama": "al-muid",
+            "arab": "الْمُعِيدُ",
+            "arti": "Yang Maha Mengembalikan",
+            "deskripsi": "Allah menghidupkan kembali makhluk."
+        },
+        "60": {
+            "nama": "al-muhyi",
+            "arab": "الْمُحْيِي",
+            "arti": "Yang Maha Menghidupkan",
+            "deskripsi": "Allah memberi kehidupan."
+        },
+        "61": {
+            "nama": "al-mumit",
+            "arab": "الْمُمِيتُ",
+            "arti": "Yang Maha Mematikan",
+            "deskripsi": "Allah menentukan kematian makhluk."
+        },
+        "62": {
+            "nama": "al-hayy",
+            "arab": "الْحَيُّ",
+            "arti": "Yang Maha Hidup",
+            "deskripsi": "Allah hidup kekal selamanya."
+        },
+        "63": {
+            "nama": "al-qayyum",
+            "arab": "الْقَيُّومُ",
+            "arti": "Yang Maha Berdiri Sendiri",
+            "deskripsi": "Allah berdiri sendiri dan mengatur makhluk."
+        },
+        "64": {
+            "nama": "al-wajid",
+            "arab": "الْوَاجِدُ",
+            "arti": "Yang Maha Kaya",
+            "deskripsi": "Allah tidak membutuhkan apa pun."
+        },
+        "65": {
+            "nama": "al-majid",
+            "arab": "الْمَاجِدُ",
+            "arti": "Yang Maha Mulia",
+            "deskripsi": "Allah Maha Mulia dengan kemuliaan sempurna."
+        },
+        "66": {
+            "nama": "al-wahid",
+            "arab": "الْواحِدُ",
+            "arti": "Yang Maha Esa",
+            "deskripsi": "Allah Maha Esa tanpa sekutu."
+        },
+        "67": {
+            "nama": "as-samad",
+            "arab": "الصَّمَدُ",
+            "arti": "Yang Maha Dibutuhkan",
+            "deskripsi": "Segala makhluk bergantung kepada Allah."
+        },
+        "68": {
+            "nama": "al-qadir",
+            "arab": "الْقَادِرُ",
+            "arti": "Yang Maha Kuasa",
+            "deskripsi": "Allah Maha Kuasa atas segala sesuatu."
+        },
+        "69": {
+            "nama": "al-muqtadir",
+            "arab": "الْمُقْتَدِرُ",
+            "arti": "Yang Maha Menentukan",
+            "deskripsi": "Allah berkuasa penuh atas ketetapan-Nya."
+        },
+        "70": {
+            "nama": "al-muqaddim",
+            "arab": "الْمُقَدِّمُ",
+            "arti": "Yang Maha Mendahulukan",
+            "deskripsi": "Allah mendahulukan siapa yang Dia kehendaki."
+        },
+        "71": {
+            "nama": "al-muakhkhir",
+            "arab": "الْمُؤَخِّرُ",
+            "arti": "Yang Maha Mengakhirkan",
+            "deskripsi": "Allah mengakhirkan siapa yang Dia kehendaki."
+        },
+        "72": {
+            "nama": "al-awwal",
+            "arab": "الْأَوَّلُ",
+            "arti": "Yang Maha Awal",
+            "deskripsi": "Allah ada sebelum segala sesuatu."
+        },
+        "73": {
+            "nama": "al-akhir",
+            "arab": "الْآخِرُ",
+            "arti": "Yang Maha Akhir",
+            "deskripsi": "Allah kekal setelah segala sesuatu musnah."
+        },
+        "74": {
+            "nama": "az-zahir",
+            "arab": "الظَّاهِرُ",
+            "arti": "Yang Maha Nyata",
+            "deskripsi": "Tanda kekuasaan Allah tampak jelas."
+        },
+        "75": {
+            "nama": "al-batin",
+            "arab": "الْبَاطِنُ",
+            "arti": "Yang Maha Tersembunyi",
+            "deskripsi": "Allah Maha Mengetahui hal tersembunyi."
+        },
+        "76": {
+            "nama": "al-wali",
+            "arab": "الْوَالِي",
+            "arti": "Yang Maha Memerintah",
+            "deskripsi": "Allah mengatur seluruh alam."
+        },
+        "77": {
+            "nama": "al-mutaali",
+            "arab": "الْمُتَعَالِي",
+            "arti": "Yang Maha Tinggi",
+            "deskripsi": "Allah Maha Tinggi dari segala sifat makhluk."
+        },
+        "78": {
+            "nama": "al-barr",
+            "arab": "الْبَرُّ",
+            "arti": "Yang Maha Dermawan",
+            "deskripsi": "Allah Maha Baik kepada hamba-Nya."
+        },
+        "79": {
+            "nama": "at-tawwab",
+            "arab": "التَّوَّابُ",
+            "arti": "Yang Maha Penerima Taubat",
+            "deskripsi": "Allah menerima taubat hamba-Nya."
+        },
+        "80": {
+            "nama": "al-muntaqim",
+            "arab": "الْمُنْتَقِمُ",
+            "arti": "Yang Maha Pembalas",
+            "deskripsi": "Allah membalas kezaliman dengan adil."
+        },
+        "81": {
+            "nama": "al-afuw",
+            "arab": "الْعَفُوُّ",
+            "arti": "Yang Maha Pemaaf",
+            "deskripsi": "Allah menghapus dosa hamba-Nya."
+        },
+        "82": {
+            "nama": "ar-rauf",
+            "arab": "الرَّؤُوفُ",
+            "arti": "Yang Maha Pengasih",
+            "deskripsi": "Allah Maha Lembut dan penuh kasih."
+        },
+        "83": {
+            "nama": "malikul-mulk",
+            "arab": "مَالِكُ الْمُلْكِ",
+            "arti": "Yang Maha Menguasai Kerajaan",
+            "deskripsi": "Allah pemilik seluruh kerajaan."
+        },
+        "84": {
+            "nama": "dzul-jalali-wal-ikram",
+            "arab": "ذُو الْجَلَالِ وَالْإِكْرَامِ",
+            "arti": "Yang Maha Mulia dan Maha Pemurah",
+            "deskripsi": "Allah memiliki keagungan dan kemuliaan."
+        },
+        "85": {
+            "nama": "al-muqsith",
+            "arab": "الْمُقْسِطُ",
+            "arti": "Yang Maha Adil",
+            "deskripsi": "Allah menetapkan keadilan sempurna."
+        },
+        "86": {
+            "nama": "al-jami",
+            "arab": "الْجَامِعُ",
+            "arti": "Yang Maha Mengumpulkan",
+            "deskripsi": "Allah mengumpulkan makhluk pada hari kiamat."
+        },
+        "87": {
+            "nama": "al-ghani",
+            "arab": "الْغَنِيُّ",
+            "arti": "Yang Maha Kaya",
+            "deskripsi": "Allah tidak membutuhkan siapa pun."
+        },
+        "88": {
+            "nama": "al-mughni",
+            "arab": "الْمُغْنِي",
+            "arti": "Yang Maha Memberi Kekayaan",
+            "deskripsi": "Allah memberi kecukupan kepada hamba-Nya."
+        },
+        "89": {
+            "nama": "al-mani",
+            "arab": "الْمَانِعُ",
+            "arti": "Yang Maha Mencegah",
+            "deskripsi": "Allah mencegah keburukan dengan hikmah."
+        },
+        "90": {
+            "nama": "ad-dharr",
+            "arab": "الضَّارُّ",
+            "arti": "Yang Maha Memberi Mudharat",
+            "deskripsi": "Allah memberi ujian sesuai kehendak-Nya."
+        },
+        "91": {
+            "nama": "an-nafi",
+            "arab": "النَّافِعُ",
+            "arti": "Yang Maha Memberi Manfaat",
+            "deskripsi": "Allah memberi manfaat kepada makhluk."
+        },
+        "92": {
+            "nama": "an-nur",
+            "arab": "النُّورُ",
+            "arti": "Yang Maha Bercahaya",
+            "deskripsi": "Allah adalah cahaya langit dan bumi."
+        },
+        "93": {
+            "nama": "al-hadi",
+            "arab": "الْهَادِي",
+            "arti": "Yang Maha Pemberi Petunjuk",
+            "deskripsi": "Allah memberi petunjuk ke jalan yang benar."
+        },
+        "94": {
+            "nama": "al-badi",
+            "arab": "الْبَدِيعُ",
+            "arti": "Yang Maha Pencipta Tanpa Contoh",
+            "deskripsi": "Allah menciptakan tanpa contoh sebelumnya."
+        },
+        "95": {
+            "nama": "al-baqi",
+            "arab": "الْبَاقِي",
+            "arti": "Yang Maha Kekal",
+            "deskripsi": "Allah kekal selamanya."
+        },
+        "96": {
+            "nama": "al-warith",
+            "arab": "الْوَارِثُ",
+            "arti": "Yang Maha Pewaris",
+            "deskripsi": "Allah mewarisi seluruh makhluk."
+        },
+        "97": {
+            "nama": "ar-rashid",
+            "arab": "الرَّشِيدُ",
+            "arti": "Yang Maha Pandai",
+            "deskripsi": "Allah membimbing ke jalan yang lurus."
+        },
+        "98": {
+            "nama": "as-sabur",
+            "arab": "الصَّبُورُ",
+            "arti": "Yang Maha Sabar",
+            "deskripsi": "Allah Maha Sabar atas perbuatan hamba-Nya."
+        },
+        "99": {
+            "nama": "allah",
+            "arab": "الله",
+            "arti": "Nama Allah Yang Maha Agung",
+            "deskripsi": "Nama Allah mencakup seluruh sifat kesempurnaan-Nya."
+        }
+    },
+    "bacaan_sholat": {
+        "1":{
+            "nama": "Takbiratul Ihram",
+            "arab": "اللّٰهُ أَكْبَرُ",
+            "latin": "Allāhu akbar",
+            "arti": "Allah Mahabesar."
+        },
+        "2":{
+            "nama": "Doa Iftitah",
+            "arab": "اللّٰهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اللّٰهُمَّ نَقِّنِي مِنْ خَطَايَايَ كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ، اللّٰهُمَّ اغْسِلْنِي مِنْ خَطَايَايَ بِالثَّلْجِ وَالْمَاءِ وَالْبَرَدِ",
+            "latin": "Allāhumma bā‘id bainī wa baina khaṭāyāya kamā bā‘adta bainal-masyriqi wal-maghrib. Allāhumma naqqinī min khaṭāyāya kamā yunaqqath-thaubul-abyaḍu minad-danas. Allāhummaghsilnī min khaṭāyāya bits-tsalji wal-mā’i wal-barad.",
+            "arti": "Ya Allah, jauhkanlah antara aku dan kesalahan-kesalahanku sebagaimana Engkau menjauhkan antara timur dan barat. Ya Allah, bersihkanlah aku dari kesalahan-kesalahanku sebagaimana kain putih dibersihkan dari kotoran. Ya Allah, cucilah aku dari kesalahan-kesalahanku dengan air, salju, dan embun."
+        },
+        "3":{
+            "nama": "Surat Al-Fatihah",
+            "arab": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِينَ ۝ الرَّحْمٰنِ الرَّحِيْمِ ۝ مَالِكِ يَوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+            "latin": "Bismillāhir-raḥmānir-raḥīm ...",
+            "arti": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang ... (hingga akhir Al-Fatihah)."
+        },
+        "4":{
+            "nama": "Rukuk",
+            "arab": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+            "latin": "Subḥāna rabbiyal-‘aẓīm",
+            "arti": "Mahasuci Tuhanku Yang Maha Agung."
+        },
+        "5":{
+            "nama": "I‘tidal",
+            "arab": "سَمِعَ اللّٰهُ لِمَنْ حَمِدَهُ، رَبَّنَا وَلَكَ الْحَمْدُ",
+            "latin": "Sami‘allāhu liman ḥamidah, rabbanā wa lakal-ḥamd",
+            "arti": "Allah mendengar orang yang memuji-Nya. Wahai Tuhan kami, bagi-Mu segala puji."
+        },
+        "6":{
+            "nama": "Sujud",
+            "arab": "سُبْحَانَ رَبِّيَ الْأَعْلَى",
+            "latin": "Subḥāna rabbiyal-a‘lā",
+            "arti": "Mahasuci Tuhanku Yang Maha Tinggi."
+        },
+        "7":{
+            "nama": "Duduk di Antara Dua Sujud",
+            "arab": "رَبِّ اغْفِرْ لِي، وَارْحَمْنِي، وَاجْبُرْنِي، وَارْفَعْنِي، وَارْزُقْنِي، وَاهْدِنِي، وَعَافِنِي، وَاعْفُ عَنِّي",
+            "latin": "Rabbighfir lī, warḥamnī, wajburnī, warfa‘nī, warzuqnī, wahdinī, wa‘āfinī, wa‘fu ‘annī",
+            "arti": "Wahai Tuhanku, ampunilah aku, rahmatilah aku, cukupilah kekuranganku, angkatlah derajatku, berilah aku rezeki, tunjukilah aku, sehatkanlah aku, dan maafkanlah aku."
+        },
+        "8":{
+            "nama": "Tasyahud Awal",
+            "arab": "التَّحِيَّاتُ لِلّٰهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ ...",
+            "latin": "At-taḥiyyātu lillāhi waṣ-ṣalawātu waṭ-ṭayyibāt ...",
+            "arti": "Segala penghormatan, doa, dan kebaikan hanyalah milik Allah ..."
+        },
+        "9":{
+            "nama": "Tasyahud Akhir",
+            "arab": "التَّحِيَّاتُ لِلّٰهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ ... اللّٰهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ ...",
+            "latin": "At-taḥiyyātu lillāhi waṣ-ṣalawātu waṭ-ṭayyibāt ... Allāhumma ṣalli ‘alā Muḥammad wa ‘alā āli Muḥammad ...",
+            "arti": "Segala penghormatan, doa, dan kebaikan hanyalah milik Allah ... Ya Allah, limpahkanlah rahmat kepada Nabi Muhammad dan keluarganya ..."
+        }
+    },
+    "niat_sholat_wajib": {
+        "1":{
+            "urutan": 1,
+            "nama": "Niat Sholat Subuh",
+            "arab": "أُصَلِّي فَرْضَ الصُّبْحِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+            "latin": "Ushallī fardhaṣ-ṣubḥi rak‘ataini mustaqbilal-qiblati adā’an lillāhi ta‘ālā",
+            "arti": "Aku berniat melaksanakan sholat fardu Subuh dua rakaat dengan menghadap kiblat, tunai karena Allah Ta‘ala."
+        },
+        "2":{
+            "urutan": 2,
+            "nama": "Niat Sholat Zuhur",
+            "arab": "أُصَلِّي فَرْضَ الظُّهْرِ أَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+            "latin": "Ushallī fardhaẓ-ẓuhri arba‘a raka‘ātin mustaqbilal-qiblati adā’an lillāhi ta‘ālā",
+            "arti": "Aku berniat melaksanakan sholat fardu Zuhur empat rakaat dengan menghadap kiblat, tunai karena Allah Ta‘ala."
+        },
+        "3":{
+            "urutan": 3,
+            "nama": "Niat Sholat Asar",
+            "arab": "أُصَلِّي فَرْضَ الْعَصْرِ أَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+            "latin": "Ushallī fardhal-‘aṣri arba‘a raka‘ātin mustaqbilal-qiblati adā’an lillāhi ta‘ālā",
+            "arti": "Aku berniat melaksanakan sholat fardu Asar empat rakaat dengan menghadap kiblat, tunai karena Allah Ta‘ala."
+        },
+        "4":{
+            "urutan": 4,
+            "nama": "Niat Sholat Magrib",
+            "arab": "أُصَلِّي فَرْضَ الْمَغْرِبِ ثَلَاثَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+            "latin": "Ushallī fardhal-maghribi thalātha raka‘ātin mustaqbilal-qiblati adā’an lillāhi ta‘ālā",
+            "arti": "Aku berniat melaksanakan sholat fardu Magrib tiga rakaat dengan menghadap kiblat, tunai karena Allah Ta‘ala."
+        },
+        "5":{
+            "urutan": 5,
+            "nama": "Niat Sholat Isya",
+            "arab": "أُصَلِّي فَرْضَ الْعِشَاءِ أَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+            "latin": "Ushallī fardhal-‘ishā’i arba‘a raka‘ātin mustaqbilal-qiblati adā’an lillāhi ta‘ālā",
+            "arti": "Aku berniat melaksanakan sholat fardu Isya empat rakaat dengan menghadap kiblat, tunai karena Allah Ta‘ala."
+        }
+    },
+    "doa_harian": {
+        "1": {
+            "nama": "Doa Bangun Tidur",
+            "arab": "الْحَمْدُ لِلّٰهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+            "latin": "Al-ḥamdu lillāhilladzī aḥyā-nā ba‘da mā amātanā wa ilaihin-nusyūr",
+            "arti": "Segala puji bagi Allah yang telah menghidupkan kami kembali setelah mematikan kami, dan kepada-Nya kami dibangkitkan."
+        },
+        "2": {
+            "nama": "Doa Sebelum Tidur",
+            "arab": "بِاسْمِكَ اللّٰهُمَّ أَحْيَا وَبِاسْمِكَ أَمُوتُ",
+            "latin": "Bismikallāhumma aḥyā wa bismika amūt",
+            "arti": "Dengan nama-Mu ya Allah aku hidup dan dengan nama-Mu aku mati."
+        },
+        "3": {
+            "nama": "Doa Masuk Kamar Mandi",
+            "arab": "اللّٰهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+            "latin": "Allāhumma innī a‘ūdzu bika minal-khubutsi wal-khabā’its",
+            "arti": "Ya Allah, aku berlindung kepada-Mu dari setan laki-laki dan setan perempuan."
+        },
+        "4": {
+            "nama": "Doa Keluar Kamar Mandi",
+            "arab": "غُفْرَانَكَ",
+            "latin": "Ghufrānaka",
+            "arti": "Aku memohon ampunan-Mu."
+        },
+        "5": {
+            "nama": "Doa Masuk Rumah",
+            "arab": "بِسْمِ اللّٰهِ وَلَجْنَا وَبِسْمِ اللّٰهِ خَرَجْنَا وَعَلَىٰ رَبِّنَا تَوَكَّلْنَا",
+            "latin": "Bismillāhi walajnā wa bismillāhi kharajnā wa ‘alā rabbinā tawakkalnā",
+            "arti": "Dengan nama Allah kami masuk, dengan nama Allah kami keluar, dan kepada Tuhan kami, kami bertawakal."
+        },
+        "6": {
+            "nama": "Doa Keluar Rumah",
+            "arab": "بِسْمِ اللّٰهِ تَوَكَّلْتُ عَلَى اللّٰهِ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ",
+            "latin": "Bismillāhi tawakkaltu ‘alallāh, lā ḥaula wa lā quwwata illā billāh",
+            "arti": "Dengan nama Allah aku bertawakal kepada Allah, tidak ada daya dan kekuatan kecuali dengan pertolongan Allah."
+        },
+        "7": {
+            "nama": "Doa Sebelum Makan",
+            "arab": "اللّٰهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ",
+            "latin": "Allāhumma bārik lanā fīmā razaqtanā wa qinā ‘adzāban-nār",
+            "arti": "Ya Allah, berkahilah kami pada rezeki yang Engkau berikan dan lindungilah kami dari siksa neraka."
+        },
+        "8": {
+            "nama": "Doa Sesudah Makan",
+            "arab": "الْحَمْدُ لِلّٰهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مِنَ الْمُسْلِمِينَ",
+            "latin": "Al-ḥamdu lillāhilladzī aṭ‘amanā wa saqānā wa ja‘alanā minal-muslimīn",
+            "arti": "Segala puji bagi Allah yang telah memberi kami makan dan minum serta menjadikan kami termasuk orang-orang muslim."
+        },
+        "9": {
+            "nama": "Doa Memakai Pakaian",
+            "arab": "اللّٰهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا هُوَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا هُوَ لَهُ",
+            "latin": "Allāhumma innī as’aluka min khairihī wa khairi mā huwa lahū, wa a‘ūdzu bika min syarrihī wa syarri mā huwa lahū",
+            "arti": "Ya Allah, aku memohon kepada-Mu kebaikan pakaian ini dan kebaikan tujuan pembuatannya, serta aku berlindung kepada-Mu dari keburukannya."
+        },
+        "10": {
+            "nama": "Doa Naik Kendaraan",
+            "arab": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَىٰ رَبِّنَا لَمُنْقَلِبُونَ",
+            "latin": "Subḥānalladzī sakhkhara lanā hādzā wa mā kunnā lahū muqrinīn wa innā ilā rabbinā lamunqalibūn",
+            "arti": "Mahasuci Allah yang telah menundukkan kendaraan ini bagi kami, padahal kami sebelumnya tidak mampu menguasainya, dan sesungguhnya kepada Tuhan kami akan kembali."
+        },
+        "11": {
+            "nama": "Doa Ketika Hujan",
+            "arab": "اللّٰهُمَّ صَيِّبًا نَافِعًا",
+            "latin": "Allāhumma ṣayyiban nāfi‘ā",
+            "arti": "Ya Allah, jadikanlah hujan ini sebagai hujan yang bermanfaat."
+        }
+    },
+    "ayat_kursi": [
+        {
+            "arab": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+            "latin": "Arab-Latin: allāhu lā ilāha illā huw, al-ḥayyul-qayyụm, lā ta`khużuhụ sinatuw wa lā na`ụm, lahụ mā fis-samāwāti wa mā fil-arḍ, man żallażī yasyfa'u 'indahū illā bi`iżnih, ya'lamu mā baina aidīhim wa mā khalfahum, wa lā yuḥīṭụna bisyai`im min 'ilmihī illā bimā syā`, wasi'a kursiyyuhus-samāwāti wal-arḍ, wa lā ya`ụduhụ ḥifẓuhumā, wa huwal-'aliyyul-'aẓīm",
+            "arti": "Artinya: Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhluk-Nya); tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang di langit dan di bumi. Tiada yang dapat memberi syafa'at di sisi Allah tanpa izin-Nya? Allah mengetahui apa-apa yang di hadapan mereka dan di belakang mereka, dan mereka tidak mengetahui apa-apa dari ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah meliputi langit dan bumi. Dan Allah tidak merasa berat memelihara keduanya, dan Allah Maha Tinggi lagi Maha Besar."
+        }
+    ],
+    "quotes": [
+        {
+            "1": "Dan janganlah engkau bersedih, sesungguhnya Allah bersama orang yang sabar. (QS. At Taubah: 10:40).",
+            "2": "Karena sesungguhnya sesudah kesulitan itu ada kemudahan, sesungguhnya sesudah kesulitan itu ada kemudahan. (QS. Al-Insyirah: 5-6).",
+            "3": "Hanya kepada Allah aku mengadukan kesusahan dan kesedihanku. (QS. Yusuf: 86).",
+            "4": "Allah tidak membebani seseorang itu melainkan sesuai dengan kesanggupannya. (QS. Al-Baqarah: 286).",
+            "5": "Janganlah engkau berduka atas apa yang telah terjadi, karena tidak ada apapun di dunia ini yang abadi. (Imam Syafii).",
+            "6": "Jangan kamu merasa lemah dan jangan bersedih, sebab kamu paling tinggi derajatnya jika kamu beriman. (QS. Ali Imran: 139).",
+            "7": "Allah menjadikanmu seorang Muslim karena ingin melihatmu berada di surga-Nya. Dan yang perlu kamu lakukan adalah menunjukkan jika kamu pantas untuk itu."
+        }
+    ]
+}
