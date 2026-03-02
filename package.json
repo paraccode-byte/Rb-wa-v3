@@ -13,7 +13,7 @@
   "dependencies": {
     "@google/genai": "^1.37.0",
     "@google/generative-ai": "^0.24.1",
-    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "@whiskeysockets/baileys": "github:kobie3717/Baileys#fix/405-platform-macos",
     "dotenv": "^17.2.3",
     "fluent-ffmpeg": "^2.1.3",
     "lowdb": "^7.0.1",
